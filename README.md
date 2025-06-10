@@ -1,2 +1,2 @@
 # Corrida-de-Prcessos
-Este repositório buscar ilustrar o funcionamento de uma corrida de processos com algoritmo de escalonamento.
+Este repositório buscar ilustrar o funcionamento de uma corrida de processos com algoritmo de escalonamento. O jogo funciona com um menou que permite escolher utilizar os algoritmos de escalonamento roun robin ou por prioridade estática não preemptiva e também alterar a prioridade dos processos. Por fim, há proceeos que simulam publicações me redes socias, um de postar, validar e outro de publicar, com uma ilustração de cada etapa de execução no terminal, aproveite e divirta-se vendo o funcionamento!
